@@ -1,0 +1,11 @@
+D:\Games\c++\LR№17\LR№17\bin\Debug\LR№17.exe.config
+D:\Games\c++\LR№17\LR№17\bin\Debug\LR№17.exe
+D:\Games\c++\LR№17\LR№17\bin\Debug\LR№17.pdb
+D:\Games\c++\LR№17\LR№17\obj\Debug\LR№17.csproj.AssemblyReference.cache
+D:\Games\c++\LR№17\LR№17\obj\Debug\LR№17.csproj.SuggestedBindingRedirects.cache
+D:\Games\c++\LR№17\LR№17\obj\Debug\LR_17.Form1.resources
+D:\Games\c++\LR№17\LR№17\obj\Debug\LR_17.Properties.Resources.resources
+D:\Games\c++\LR№17\LR№17\obj\Debug\LR№17.csproj.GenerateResource.cache
+D:\Games\c++\LR№17\LR№17\obj\Debug\LR№17.csproj.CoreCompileInputs.cache
+D:\Games\c++\LR№17\LR№17\obj\Debug\LR№17.exe
+D:\Games\c++\LR№17\LR№17\obj\Debug\LR№17.pdb
