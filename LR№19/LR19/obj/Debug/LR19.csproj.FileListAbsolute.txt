@@ -1,0 +1,11 @@
+D:\Games\c++\LR19\LR19\bin\Debug\LR19.exe.config
+D:\Games\c++\LR19\LR19\bin\Debug\LR19.exe
+D:\Games\c++\LR19\LR19\bin\Debug\LR19.pdb
+D:\Games\c++\LR19\LR19\obj\Debug\LR19.csproj.AssemblyReference.cache
+D:\Games\c++\LR19\LR19\obj\Debug\LR19.csproj.SuggestedBindingRedirects.cache
+D:\Games\c++\LR19\LR19\obj\Debug\LR19.Form1.resources
+D:\Games\c++\LR19\LR19\obj\Debug\LR19.Properties.Resources.resources
+D:\Games\c++\LR19\LR19\obj\Debug\LR19.csproj.GenerateResource.cache
+D:\Games\c++\LR19\LR19\obj\Debug\LR19.csproj.CoreCompileInputs.cache
+D:\Games\c++\LR19\LR19\obj\Debug\LR19.exe
+D:\Games\c++\LR19\LR19\obj\Debug\LR19.pdb
