@@ -1,0 +1,11 @@
+D:\Games\c++\LR24\LR24\bin\Debug\LR24.exe.config
+D:\Games\c++\LR24\LR24\bin\Debug\LR24.exe
+D:\Games\c++\LR24\LR24\bin\Debug\LR24.pdb
+D:\Games\c++\LR24\LR24\obj\Debug\LR24.csproj.AssemblyReference.cache
+D:\Games\c++\LR24\LR24\obj\Debug\LR24.csproj.SuggestedBindingRedirects.cache
+D:\Games\c++\LR24\LR24\obj\Debug\LR24.Form1.resources
+D:\Games\c++\LR24\LR24\obj\Debug\LR24.Properties.Resources.resources
+D:\Games\c++\LR24\LR24\obj\Debug\LR24.csproj.GenerateResource.cache
+D:\Games\c++\LR24\LR24\obj\Debug\LR24.csproj.CoreCompileInputs.cache
+D:\Games\c++\LR24\LR24\obj\Debug\LR24.exe
+D:\Games\c++\LR24\LR24\obj\Debug\LR24.pdb
