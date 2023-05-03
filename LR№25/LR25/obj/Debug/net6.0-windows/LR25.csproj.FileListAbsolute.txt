@@ -1,0 +1,17 @@
+D:\Games\c++\LR25\LR25\bin\Debug\net6.0-windows\LR25.exe
+D:\Games\c++\LR25\LR25\bin\Debug\net6.0-windows\LR25.deps.json
+D:\Games\c++\LR25\LR25\bin\Debug\net6.0-windows\LR25.runtimeconfig.json
+D:\Games\c++\LR25\LR25\bin\Debug\net6.0-windows\LR25.dll
+D:\Games\c++\LR25\LR25\bin\Debug\net6.0-windows\LR25.pdb
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.csproj.AssemblyReference.cache
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.Form1.resources
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.csproj.GenerateResource.cache
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.AssemblyInfoInputs.cache
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.AssemblyInfo.cs
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.csproj.CoreCompileInputs.cache
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.dll
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\refint\LR25.dll
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.pdb
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\LR25.genruntimeconfig.cache
+D:\Games\c++\LR25\LR25\obj\Debug\net6.0-windows\ref\LR25.dll
