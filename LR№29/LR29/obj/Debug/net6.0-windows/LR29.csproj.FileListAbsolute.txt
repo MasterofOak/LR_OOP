@@ -1,0 +1,17 @@
+D:\Games\c++\LR29\LR29\bin\Debug\net6.0-windows\LR29.exe
+D:\Games\c++\LR29\LR29\bin\Debug\net6.0-windows\LR29.deps.json
+D:\Games\c++\LR29\LR29\bin\Debug\net6.0-windows\LR29.runtimeconfig.json
+D:\Games\c++\LR29\LR29\bin\Debug\net6.0-windows\LR29.dll
+D:\Games\c++\LR29\LR29\bin\Debug\net6.0-windows\LR29.pdb
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.csproj.AssemblyReference.cache
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.Form1.resources
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.csproj.GenerateResource.cache
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.AssemblyInfoInputs.cache
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.AssemblyInfo.cs
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.csproj.CoreCompileInputs.cache
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.dll
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\refint\LR29.dll
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.pdb
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\LR29.genruntimeconfig.cache
+D:\Games\c++\LR29\LR29\obj\Debug\net6.0-windows\ref\LR29.dll
